@@ -80,6 +80,8 @@ Evaluation notebooks
 Results generation
 ```
 
+For demonstration, we have used the public mobility dataset: YJMob100K ({https://www.nature.com/articles/s41597-024-03237-9, https://zenodo.org/records/10142719}) in the source code denoted by the variable taka_dataset, but a user can replace the loading of this variable to any source dataset and the anonymuzation pipeline will work. 
+
 ---
 
 # Requirements
