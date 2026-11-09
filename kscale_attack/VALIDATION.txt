@@ -1,0 +1,5 @@
+Validation: 2026-11-09
+29 tests passed in 5.34 s.
+Includes prior pipeline/metrics tests and new attack tests.
+Python module and notebook code-cell syntax checked.
+Synthetic data only; no YJMob production results claimed.
